@@ -1,0 +1,26 @@
+{
+  "name": "nodepress",
+  "version": "1.0.0",
+  "description": "NodePress is a CMS system under Node.js and MariaDB(or MySQL)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaohuazhu/NodePress.git"
+  },
+  "keywords": [
+    "blog",
+    "cms"
+  ],
+  "author": "zhuzhaohua <zhaohuazhu@msn.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/zhaohuazhu/NodePress/issues"
+  },
+  "homepage": "https://github.com/zhaohuazhu/NodePress#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
